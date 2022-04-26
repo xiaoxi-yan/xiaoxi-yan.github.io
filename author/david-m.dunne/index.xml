@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David M.Dunne | Xiaoxi</title>
+    <link>https://xiaoxi-yan.github.io/author/david-m.dunne/</link>
+      <atom:link href="https://xiaoxi-yan.github.io/author/david-m.dunne/index.xml" rel="self" type="application/rss+xml" />
+    <description>David M.Dunne</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiaoxi Yan. Made with R blogdown and Hugo Academic.</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaoxi-yan.github.io/media/icon_hu4e2b54ce1643ab20fc4f217ac4666b8f_26326_512x512_fill_lanczos_center_3.png</url>
+      <title>David M.Dunne</title>
+      <link>https://xiaoxi-yan.github.io/author/david-m.dunne/</link>
+    </image>
+    
+    <item>
+      <title>A pilot sequential multiple assignment randomized trial (SMART) protocol for developing an adaptive coaching intervention for athletes to improve carbohydrate periodization behavior</title>
+      <link>https://xiaoxi-yan.github.io/publication/smart-protocol/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaoxi-yan.github.io/publication/smart-protocol/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/smart-protocol/featured_mobile_hu6c414a0100a68a6e21bd1780b4bfd205_669186_1a36218f7e6b21c37b4815f8636c3ef6.webp 400w,
+               /publication/smart-protocol/featured_mobile_hu6c414a0100a68a6e21bd1780b4bfd205_669186_19418226e2e5746bbcc296bd210616b7.webp 760w,
+               /publication/smart-protocol/featured_mobile_hu6c414a0100a68a6e21bd1780b4bfd205_669186_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://xiaoxi-yan.github.io/publication/smart-protocol/featured_mobile_hu6c414a0100a68a6e21bd1780b4bfd205_669186_1a36218f7e6b21c37b4815f8636c3ef6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the link: &lt;a href=&#34;https://xiaoxi-yan.shinyapps.io/prec-smart-ss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://xiaoxi-yan.shinyapps.io/prec-smart-ss/&lt;/a&gt; for a precision-based sample size calculator for different SMART designs.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
