@@ -1,0 +1,18 @@
+{
+  "name": "Xiaoxi",
+  "short_name": "Xiaoxi",
+  "lang": "en-us",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/media/icon_hu4e2b54ce1643ab20fc4f217ac4666b8f_26326_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu4e2b54ce1643ab20fc4f217ac4666b8f_26326_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

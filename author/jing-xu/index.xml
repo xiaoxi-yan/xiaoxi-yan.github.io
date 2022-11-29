@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Xu | Xiaoxi</title>
+    <link>https://xiaoxi-yan.github.io/author/jing-xu/</link>
+      <atom:link href="https://xiaoxi-yan.github.io/author/jing-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jing Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiaoxi Yan. Made with R blogdown and Hugo Academic.</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaoxi-yan.github.io/media/icon_hu4e2b54ce1643ab20fc4f217ac4666b8f_26326_512x512_fill_lanczos_center_3.png</url>
+      <title>Jing Xu</title>
+      <link>https://xiaoxi-yan.github.io/author/jing-xu/</link>
+    </image>
+    
+    <item>
+      <title>mHealth app using machine learning to increase physical activity in diabetes and depression:   clinical trial protocol for the DIAMANTE Study</title>
+      <link>https://xiaoxi-yan.github.io/publication/diamante/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaoxi-yan.github.io/publication/diamante/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

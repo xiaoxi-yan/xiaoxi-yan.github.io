@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Xiaoxi</title>
+    <link>https://xiaoxi-yan.github.io/blog/</link>
+      <atom:link href="https://xiaoxi-yan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiaoxi Yan. Made with R blogdown and Hugo Academic.</copyright><lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaoxi-yan.github.io/media/icon_hu4e2b54ce1643ab20fc4f217ac4666b8f_26326_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://xiaoxi-yan.github.io/blog/</link>
+    </image>
+    
+    <item>
+      <title>My admission blog at Duke-NUS student spotlight</title>
+      <link>https://xiaoxi-yan.github.io/blog/admission-blog/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiaoxi-yan.github.io/blog/admission-blog/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.duke-nus.edu.sg/admissions-blog/admissions-blog/2019/02/22/student-spotlight-yan-xiaoxi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.duke-nus.edu.sg/admissions-blog/admissions-blog/2019/02/22/student-spotlight-yan-xiaoxi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time for smoking reduction strategies to get more personal.</title>
+      <link>https://xiaoxi-yan.github.io/blog/smoking-cessation/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xiaoxi-yan.github.io/blog/smoking-cessation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.todayonline.com/commentary/time-smoking-reduction-strategies-get-more-personal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.todayonline.com/commentary/time-smoking-reduction-strategies-get-more-personal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

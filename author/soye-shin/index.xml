@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soye Shin | Xiaoxi</title>
+    <link>https://xiaoxi-yan.github.io/author/soye-shin/</link>
+      <atom:link href="https://xiaoxi-yan.github.io/author/soye-shin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soye Shin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiaoxi Yan. Made with R blogdown and Hugo Academic.</copyright><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaoxi-yan.github.io/media/icon_hu4e2b54ce1643ab20fc4f217ac4666b8f_26326_512x512_fill_lanczos_center_3.png</url>
+      <title>Soye Shin</title>
+      <link>https://xiaoxi-yan.github.io/author/soye-shin/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Combinations of Nudging, Pricing, and Labeling Strategies to Improve Diet Quality: A Virtual Grocery Store Experiment Employing a Multiphase Optimization Strategy</title>
+      <link>https://xiaoxi-yan.github.io/publication/shopping-behaviour/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaoxi-yan.github.io/publication/shopping-behaviour/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

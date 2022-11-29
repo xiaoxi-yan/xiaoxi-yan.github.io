@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John P. Ansah | Xiaoxi</title>
+    <link>https://xiaoxi-yan.github.io/author/john-p.-ansah/</link>
+      <atom:link href="https://xiaoxi-yan.github.io/author/john-p.-ansah/index.xml" rel="self" type="application/rss+xml" />
+    <description>John P. Ansah</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiaoxi Yan. Made with R blogdown and Hugo Academic.</copyright><lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaoxi-yan.github.io/media/icon_hu4e2b54ce1643ab20fc4f217ac4666b8f_26326_512x512_fill_lanczos_center_3.png</url>
+      <title>John P. Ansah</title>
+      <link>https://xiaoxi-yan.github.io/author/john-p.-ansah/</link>
+    </image>
+    
+    <item>
+      <title>Sequential Multiple Assignment Randomized Trial (SMART) to identify optimal sequences of telemedicine interventions for improving initiation of insulin therapy: A simulation study</title>
+      <link>https://xiaoxi-yan.github.io/publication/simulation-smart/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaoxi-yan.github.io/publication/simulation-smart/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the link: &lt;a href=&#34;https://xiaoxi-yan.shinyapps.io/prec-smart-ss/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://xiaoxi-yan.shinyapps.io/prec-smart-ss/&lt;/a&gt; for a precision-based sample size calculator for different SMART designs.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
